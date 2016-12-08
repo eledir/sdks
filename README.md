@@ -4,7 +4,10 @@
 The Beaconinside SDK is available for the following platforms. You need to [sign up](https://dmp.beaconinside.com/) at the Proximity DMP™ to receive an application token (in the top right Account menu).
 
 * [Beaconinside SDK for Android](https://github.com/beaconinside/beaconinside-android-sdk)
-* [Beaconinside SDK for iOS](https://github.com/beaconinside/beaconinside-ios-sdk)
+* [Beaconinside SDK for iOS (CocoaPod)](https://github.com/beaconinside/BeaconService)
+* [Beaconinside SDK for iOS (Static Library)](https://github.com/beaconinside/beaconinside-ios-sdk)
+* [Beaconinside SDK for iOS (Full Documentation)](http://developers.beaconinside.com/docs/beaconservice-ios)
+
 
 Looking for other platforms? Contact support.
 
