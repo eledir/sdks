@@ -1,23 +1,22 @@
 
-# Beaconinside SDKs
+## Beaconinside SDKs
 
-The Beaconinside SDK is available for the following platforms. You need to [sign up](https://dmp.beaconinside.com/) at the Proximity DMP™ to receive an application token (in the top right Account menu).
+The Beaconinside SDK is available for the following platforms. You need to [sign up](https://dmp.beaconinside.com/) at the Proximity DMP™ to receive an application token.
 
 * [Beaconinside SDK for Android](https://github.com/beaconinside/beaconinside-android-sdk)
-* [Beaconinside SDK for iOS (CocoaPod)](https://github.com/beaconinside/BeaconService)
-* [Beaconinside SDK for iOS (Static Library)](https://github.com/beaconinside/beaconinside-ios-sdk)
-* [Beaconinside SDK for iOS (Full Documentation)](http://developers.beaconinside.com/docs/beaconservice-ios)
+* [Beaconinside SDK for iOS](https://github.com/beaconinside/ios-sdk)
+* [Beaconinside SDK for Cordova](https://github.com/beaconinside/cordova-sdk)
 
-
-Looking for other platforms? Contact support.
+Looking for other platforms? Contact support@beaconinside.com
 
 ## Support
 
- Just [drop us](mailto:support@beaconinside.com) a message if there are any issues or questions.
- Please take a look at the [Developer Hub](http://developers.beaconinside.com) first.
+Just [drop us](mailto:support@beaconinside.com) a message if there are any issues or questions.
 
 ## License
 
-Copyright (c) 2014-16 Beaconinside GmbH. All rights reserved.
+Copyright (c) 2015-2017 Beaconinside GmbH. All rights reserved.
 
 [www.beaconinside.com](https://www.beaconinside.com)
+
+[dmp]: https://dmp.beaconinside.com
