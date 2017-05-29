@@ -6,6 +6,7 @@ The Beaconinside SDK is available for the following platforms. You need to [sign
 * [Beaconinside SDK for Android](https://github.com/beaconinside/beaconinside-android-sdk)
 * [Beaconinside SDK for iOS](https://github.com/beaconinside/ios-sdk)
 * [Beaconinside SDK for Cordova](https://github.com/beaconinside/cordova-sdk)
+* [Beaconinside SDK for Xamarin](https://github.com/beaconinside/xamarin-sdk)
 
 Looking for other platforms? Contact support@beaconinside.com
 
